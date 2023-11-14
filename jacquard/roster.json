@@ -105,7 +105,11 @@
             "materials": [
                 {
                     "type": "cv"
-                }
+                },
+		{
+			"type":"video",
+			"url":"zxRYeci8yzU"
+		}
             ]
         },
         {
